@@ -1,3 +1,29 @@
+
+# Project Name -
+
+Auto Spare Part Management System for Arai Auto Parts (pvt) Ltd.
+
+# Batch -06
+
+### Group Leader - IT20127428 -Meddaduwage P.M (pmm720)
+### Member 2 - IT20103040	-Pathirana P.M.M (MandiraTD)
+### Member 3 - IT20096984	-R.M.T.D Rathnayake(Ratnayake44)
+### Member 4 - IT20142346	-Sandeepa U.H.A.N(ashenisandeepa)
+### Member 5 - IT20175252	-Munasinghe M.H.M(Hashini munasinghe)
+### Member 6 - IT20016920	-Lansakara L.M.C.S(charithlanzzz)
+ 
+
+#### Brief Description of Project -
+
+Arai Auto parts pvt .Ltd is a spare part business that was stared in a small scale but in the current it has reached great in heights in the  industry.They are a company which imports used Japanese vehicle body parts and spare parts. Due to the success they have gain in there business they are hoping to open outlets all around the area other than Athurugiriya.Due to the current industrial systems they find in hard to cope up with the traditional manual method to fulfill the company requirements. And also because they are hoping to uplift there business in large scale they are hoping to build up a software application from which they can make there work easy and efficient. 
+
+#### Technologies used - 
+
+PHP using Laravel Framework.
+
+ 
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
